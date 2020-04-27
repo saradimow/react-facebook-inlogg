@@ -1,4 +1,8 @@
-A facsebook-login example with Oauth2 authorisation.
+A facebook-login example with Oauth2 authorisation.
+
+The facebook-app login is finded in the component facebook. 
+The app runs from app.js
+
 Following commands are important in order to get the app up and running. 
 
 ### `npx create-react-app my-app`
